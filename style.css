@@ -4,16 +4,16 @@
     box-sizing: border-box;
 }
 h1, .keyboard__key{
-    font-family: 'Comfortaa', Arial, Helvetica, sans-ser;
+    font-family: 'Quicksand', Arial, Helvetica, sans-ser;
 }
 h1{
     border-bottom: 1px solid lightgrey;
-    width: 80%;
-    margin: 40px auto;
+    width: 90%;
+    margin: 30px auto;
     padding: 10px 0;
     font-weight: 600;
     text-align: center;
-    color: #01796F;
+    color: #34486E;
 }
 
 textarea{
@@ -35,7 +35,7 @@ textarea{
     bottom: 0;
     width: 100%;
     padding: 5px 0;
-    background: #004134;
+    background: #A91B0D;
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
     user-select: none;
     transition: bottom 0.4s;
